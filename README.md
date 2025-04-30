@@ -6,13 +6,16 @@ A fun number-ordering challenge built with Python and guizero. Click numbers in 
 
 1. Make sure Python is installed: https://python.org
 2. Install the required library:
-
+   
+```bash
 pip install guizero
+```
 
-3. Run the game (make sure all files is in one folder)
+3. Run the game (make sure all files are in one folder)
 
+```
 python gui.py
-
+```
 
 ## Files Description
 
