@@ -29,7 +29,8 @@ python gui.py
 ## Demo!
 
 Demonstrating the "Easy" level — other difficulties follow the same gameplay with more numbers and larger grids.
-[View demo video on Google Drive](https://drive.google.com/file/d/1tR2p5boqh5GrsH1IOT9ZC05DLj43F6j2/view?usp=sharing)
+
+[View Demo Video Here](https://drive.google.com/file/d/1tR2p5boqh5GrsH1IOT9ZC05DLj43F6j2/view?usp=sharing)
    
 ## Files Description
 
