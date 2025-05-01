@@ -16,7 +16,16 @@ pip install guizero
 ```
 python gui.py
 ```
-
+## How to Play
+1. Enter your name in the text box.
+2. Choose a difficulty level: Easy, Medium, Hard, or Extreme.
+3. Click the "Press Start" button.
+4. Click the numbers in the correct order (1, 2, 3...) as fast as possible.
+5. A timer will start automatically.
+6. If you click a number out of order, you’ll get an “Incorrect...” message and your time will freeze.
+7. If you click all numbers correctly, you’ll see “You Win!” and your time will be saved.
+8. Click Quit to close the game or try again by restarting.
+   
 ## Files Description
 
 - `gui.py` – GUI game using guizero
