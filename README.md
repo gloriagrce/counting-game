@@ -25,6 +25,11 @@ python gui.py
 6. If you click a number out of order, you’ll get an “Incorrect...” message and your time will freeze.
 7. If you click all numbers correctly, you’ll see “You Win!” and your time will be saved.
 8. Click Quit to close the game or try again by restarting.
+
+## Demo!
+
+Demonstrating the "Easy" level — other difficulties follow the same gameplay with more numbers and larger grids.
+[View demo video on Google Drive](https://drive.google.com/file/d/1tR2p5boqh5GrsH1IOT9ZC05DLj43F6j2/view?usp=sharing)
    
 ## Files Description
 
